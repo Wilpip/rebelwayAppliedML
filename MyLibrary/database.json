@@ -1,0 +1,16 @@
+{
+  "books": {
+    "ABDECR": {"name": "Harry Potter and the Sorcerer's Stone", "category": "Fantasy"},
+    "SDFGHR": {"name": "To Kill a Mockingbird", "category": "Fiction"},
+    "HIJKLM": {"name": "1984", "category": "Dystopian"},
+    "NOPQRS": {"name": "The Da Vinci Code", "category": "Thriller"},
+    "UVWXYZ": {"name": "Sapiens: A Brief History of Humankind", "category": "Non-Fiction"},
+    "BCDEFG": {"name": "The Great Gatsby", "category": "Classic"},
+    "FGHIJK": {"name": "Dune", "category": "Science Fiction"},
+    "KLMNOP": {"name": "Atomic Habits", "category": "Self-Help"},
+    "QRSTUV": {"name": "Where the Crawdads Sing", "category": "Mystery"},
+    "WXYZAB": {"name": "The Love Hypothesis", "category": "Romance"},
+    "CDEFGH": {"name": "Becoming", "category": "Memoir"},
+    "IJKLMN": {"name": "Project Hail Mary", "category": "Science Fiction"}
+  }
+}
